@@ -2,4 +2,7 @@ Mercury is the smallest planet in our solar system.
    It's the closest planet to the Sun.
    Mercury has no atmosphere.
    Its surface temperature varies from -290°F to 800°F.
+
    A year on Mercury is only 88 Earth days.
+
+Mercury has the most eccentric orbit of all planets.
