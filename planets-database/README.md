@@ -66,3 +66,9 @@
    6. Mercury has no moons or rings
    7. Uranus rotates on its side
    8. Earth is the only planet not named after a god
+
+   ## Overview
+   Our solar system contains eight planets, divided into inner (rocky) 
+   and outer (gas giant) planets. The inner planets are smaller and 
+   composed primarily of rock and metal, while the outer planets are 
+   much larger and made mostly of gases and ice.
